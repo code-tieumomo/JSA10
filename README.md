@@ -125,3 +125,31 @@ git clone https://github.com/code-tieumomo/JSA10.git
   - Jquery: <https://jquery.com/>
   - ChartJS: <https://www.chartjs.org/>
   - Isotope: <https://isotope.metafizzy.co/>
+
+## Topic
+
+- Portfolio: <https://forst.qodeinteractive.com/>
+  - Trang chủ: show danh sách các dự án đã từng làm
+  - Chi tiết: thông tin chi tiết + hình ảnh về 1 dự án
+  - Trang thông tin cá nhân
+  - Trang liên hệ
+  - Trang pricing
+  - Trang danh sách blog
+  - Trang chi tiết blog
+
+- LMS: <http://themeturn.com/tf-db/eduhash/theme/course-grid.html>
+  - Trang danh sách khóa học
+  - Trang chi tiết khóa học
+  - Trang chi tiết một buổi học
+  - Trang giới thiệu
+  - Trang liên hệ
+  - Trang pricing
+
+- Trang tin tức
+- Trang bán hàng
+
+- Hệ thống quản lý bán hàng/nhân sự/...
+  - Trang danh sách
+  - Trang chi tiết
+  - Trang chỉnh sửa
+  - ...
