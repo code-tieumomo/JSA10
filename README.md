@@ -30,3 +30,5 @@ git clone https://github.com/code-tieumomo/JSA10.git
     - Bấm vào từng file để xem sự thay đổi là gì
     - Bấm vào dấu "+" để thêm file vào Staged Changes
   - Staged Changes: Danh sách các file đã được đánh dấu để sẵn sàng commit
+    - Bấm vào dấu "-" để bỏ file ra khỏi Staged Changes
+- Để commit, điền vào mục `Message` và bấm nút `✓ Commit` bên dưới
