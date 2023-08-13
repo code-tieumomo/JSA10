@@ -126,7 +126,7 @@ git clone https://github.com/code-tieumomo/JSA10.git
   - ChartJS: <https://www.chartjs.org/>
   - Isotope: <https://isotope.metafizzy.co/>
 
-## Topic
+## Topics
 
 - Portfolio: <https://forst.qodeinteractive.com/>
   - Trang chủ: show danh sách các dự án đã từng làm
@@ -145,7 +145,8 @@ git clone https://github.com/code-tieumomo/JSA10.git
   - Trang liên hệ
   - Trang pricing
 
-- Trang tin tức
+- Trang tin tức (...)
+
 - Trang bán hàng
 
 - Hệ thống quản lý bán hàng/nhân sự/...
@@ -153,3 +154,31 @@ git clone https://github.com/code-tieumomo/JSA10.git
   - Trang chi tiết
   - Trang chỉnh sửa
   - ...
+
+- Trang thời tiết
+
+- Trang xem phim
+
+- Trang bán vé xem phim, concert, các địa điểm du lịch, ... Book lịch khám bệnh
+
+- Trang mạng xã hội
+
+- Trang forum: <https://2code.info/demo/themes/Himer/main/?skin=light>
+
+- Trang tìm việc: <https://civi.uxper.co/home-01>
+
+- Quản lý chi tiêu, ví điện tử
+
+## Final topics
+
+- Khang:
+  - Trang xem phim
+  - <https://github.com/duongvukhang/final-project-JSA10->
+
+- Thành:
+  - Blog
+  - <https://github.com/Huppuppup/CK>
+
+- Nguyên:
+  - Trang bán hàng
+  - <https://github.com/dkn031207/spck-jsa.git>
